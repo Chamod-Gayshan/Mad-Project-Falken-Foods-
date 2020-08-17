@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Falken Food</string>
+    <string name="falken_foods">Falken Foods</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="register">Register</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="e_mail">E-mail</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="price">Price =</string>
+    <string name="rs_250_00">rs.250.00</string>
+    <string name="category">Category</string>
+    <string name="thai_peanut_noodles_made_in_the_instant_pot_easy_one_pot_weeknight_meal_which_gets_done_in_lessingredients_2_tablespoons_oil_i_used_vegetable_oil_4_5_garlic_cloves_minced_1_inch_ginger_minced_2_medium_carrots_100_grams_sliced_thin_1_medium_red_pepper_200_grams_sliced_thin">Thai Peanut Noodles made in the Instant Pot! Easy one-pot weeknight meal which gets done in lessIngredients 2 tablespoons oil (I used vegetable oil) 4-5 garlic cloves (minced) 1 inch ginger (minced) 2 medium carrots (100 grams, sliced thin) 1 medium red pepper (200 grams, sliced thin)</string>
+    <string name="view_more">View more</string>
+
+    <string name="add_item">Add Item</string>
+    <string name="item_description">Item Description</string>
+    <string name="item_id">Item Id</string>
+    <string name="item_name">Item Name</string>
+    <string name="add_items">Add Items</string>
+
+    <string name="delete_item">Delete Item</string>
+    <string name="delete_items">Delete Items</string>
+
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="order_details">Order Details</string>
+    <string name="noodles">Noodles</string>
+    <string name="cart">Cart</string>
+    <string name="items">Items</string>
+    <string name="amount">Amount</string>
+    <string name="total">Total =</string>
+    <string name="check_out">Check out</string>
+    <string name="rice">Rice</string>
+    <string name="rs_150_00">rs.150.00</string>
+    <string name="rs_400_00">rs.400.00</string>
+
+    <string name="view_order">View Order</string>
+    <string name="submit">Submit</string>
+    <string name="contact_no">Contact No</string>
+    <string name="order_id">Order Id</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="special_note">Special Note</string>
+
+
+</resources>
